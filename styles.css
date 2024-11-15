@@ -407,3 +407,25 @@ hr{
 {
   height:400px
 }
+.logo1
+{
+  height:400px
+}
+
+.download-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1em;
+  color: white;
+  background-color: #377b84;
+  text-decoration: none;
+  border-radius: 5px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #036774;
+  color: #5fac1b;
+}
